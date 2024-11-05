@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306834610658",
+    "project_id": "fir-ui-779f8",
+    "storage_bucket": "fir-ui-779f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306834610658:android:723ae064f86972a37a01bb",
+        "android_client_info": {
+          "package_name": "br.unisanta.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCELXDiY02kC_ZX1JBU6DOmKPsgh3qS59U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
